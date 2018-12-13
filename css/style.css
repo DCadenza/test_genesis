@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "Helvetica-Regular", sans-serif;
-  src: url("../fonts/HelveticaRegular.ttf"); }
+  font-family: "Helvetica";
+  src: url("../fonts/Helvetica/HelveticaRegular.ttf"), url("../Helvetica/fonts/HelveticaRegular.woff"), url("../fonts/Helvetica/HelveticaRegular.eot"); }
 
 @font-face {
   font-family: "Lucida-Grande-Bold";
